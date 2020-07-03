@@ -1,0 +1,93 @@
+@keyframes ldio-7g1ms2s9not {
+  0% { transform: rotate(0) }
+  100% { transform: rotate(360deg) }
+}
+.ldio-7g1ms2s9not div { box-sizing: border-box!important }
+.ldio-7g1ms2s9not > div {
+  position: absolute;
+  width: 69px;
+  height: 69px;
+  top: 15.5px;
+  left: 15.5px;
+  border-radius: 50%;
+  border: 5px solid #000;
+  border-color: #ff0011 transparent #ff0011 transparent;
+  animation: ldio-7g1ms2s9not 2.380952380952381s linear infinite;
+}
+
+.ldio-7g1ms2s9not > div:nth-child(2), .ldio-7g1ms2s9not > div:nth-child(4) {
+  width: 57px;
+  height: 57px;
+  top: 21.5px;
+  left: 21.5px;
+  animation: ldio-7g1ms2s9not 2.380952380952381s linear infinite reverse;
+}
+.ldio-7g1ms2s9not > div:nth-child(2) {
+  border-color: transparent #0022ff transparent #0022ff
+}
+.ldio-7g1ms2s9not > div:nth-child(3) { border-color: transparent }
+.ldio-7g1ms2s9not > div:nth-child(3) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-7g1ms2s9not > div:nth-child(3) div:before, .ldio-7g1ms2s9not > div:nth-child(3) div:after { 
+  content: "";
+  display: block;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: -5px;
+  left: 27px;
+  background: #ff0011;
+  border-radius: 50%;
+  box-shadow: 0 64px 0 0 #ff0011;
+}
+.ldio-7g1ms2s9not > div:nth-child(3) div:after {
+  left: -5px;
+  top: 27px;
+  box-shadow: 64px 0 0 0 #ff0011;
+}
+
+.ldio-7g1ms2s9not > div:nth-child(4) { border-color: transparent; }
+.ldio-7g1ms2s9not > div:nth-child(4) div {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  transform: rotate(45deg);
+}
+.ldio-7g1ms2s9not > div:nth-child(4) div:before, .ldio-7g1ms2s9not > div:nth-child(4) div:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: -5px;
+  left: 21px;
+  background: #0022ff;
+  border-radius: 50%;
+  box-shadow: 0 52px 0 0 #0022ff;
+}
+.ldio-7g1ms2s9not > div:nth-child(4) div:after {
+  left: -5px;
+  top: 21px;
+  box-shadow: 52px 0 0 0 #0022ff;
+}
+.loadingio-spinner-double-ring-bkmf7ua3kkq {
+  width: 71px;
+  height: 71px;
+  display: inline-block;
+  margin: 0 auto;
+  overflow: hidden;
+  background: rgba(NaN, NaN, NaN, 0);
+}
+.ldio-7g1ms2s9not {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  transform: translateZ(0) scale(0.71);
+  backface-visibility: hidden;
+  transform-origin: 0 0; /* see note above */
+}
+.ldio-7g1ms2s9not div { box-sizing: content-box; }
